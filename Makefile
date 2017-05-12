@@ -1,5 +1,5 @@
 VERSION = 3.4.4-0
-IMAGE = zanjs/alpine-mongo:$(VERSION)
+IMAGE = mvertes/alpine-mongo:$(VERSION)
 
 all:
 
